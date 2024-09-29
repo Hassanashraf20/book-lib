@@ -33,3 +33,7 @@ simple Node.js application demonstrating backend engineering skills, focusing on
    ```bash
    npm install
    ```
+   3. Run App:
+   ```bash
+   npm run start:dev
+   ```
